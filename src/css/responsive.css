@@ -1,0 +1,14 @@
+@media (max-width: 393px) 
+{
+    
+    .container
+    {
+        display: flex;
+        align-items: center;
+    }
+    .container .box
+    {
+        width: 308px;
+    }
+
+}
